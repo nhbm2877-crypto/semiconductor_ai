@@ -3,6 +3,7 @@
 ## 프로젝트 보고서
 
 [Etch 공정 데이터 분석 보고서 보기](https://nhbm2877-crypto.github.io/semiconductor_ai/etch/project_01/)
+
 [Photo 공정 데이터 분석 보고서 보기](https://nhbm2877-crypto.github.io/semiconductor_ai/photo/project_01/)
 ## Etch 공정 데이터 분석
 
@@ -13,6 +14,8 @@ Etch 공정의 900개 Wafer 데이터를 기반으로 공정 변수와 Etch Rate
 
 ### 분석 프로세스
 Raw Data 검증 → 데이터 전처리 → EDA → 공정능력 분석 → 머신러닝 모델링 → 주요 변수 선정 → DOE 설계
+
+### 최종 보고서
 [Etch 공정 데이터 분석 보고서 보기](https://nhbm2877-crypto.github.io/semiconductor_ai/etch/project_01/)
 
 ---
