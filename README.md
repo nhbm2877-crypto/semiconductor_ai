@@ -4,7 +4,11 @@
 
 [Etch 공정 데이터 분석 보고서 보기](https://nhbm2877-crypto.github.io/semiconductor_ai/etch/project_01/)
 
+[Dry Etch 종료시점 예측 및 과식각 위험 판단 보고서 보기](https://nhbm2877-crypto.github.io/semiconductor_ai/etch/project_02/dry_etch_A_integrated_report.html)
+
 [Photo 공정 데이터 분석 보고서 보기](https://nhbm2877-crypto.github.io/semiconductor_ai/photo/project_01/)
+
+
 ## Etch 공정 데이터 분석
 
 ### 프로젝트 개요
@@ -18,6 +22,16 @@ Raw Data 검증 → 데이터 전처리 → EDA → 공정능력 분석 → 머�
 ### 최종 보고서
 [Etch 공정 데이터 분석 보고서 보기](https://nhbm2877-crypto.github.io/semiconductor_ai/etch/project_01/)
 
+
+### Project 02 | Dry Etch 종료시점 예측 및 과식각 위험 판단
+
+Dry Etch 공정 데이터를 활용하여 Endpoint 종료시점을 예측하고 과식각 위험을 선별한 프로젝트입니다.
+
+Train 데이터를 기반으로 예측 모델과 위험 판정 기준을 구축한 뒤 Holdout 데이터에 동결 모델을 적용했습니다. 또한 RF Source, RF Bias, Chamber Pressure, Gas Flow를 주요 인자로 선정하여 DOE를 설계하고, 모델 결과를 자동 제어가 아닌 엔지니어의 공정 의사결정을 지원하는 방향으로 활용했습니다.
+
+**주요 분석:** 데이터 품질 검증 → Lot 분리 학습 → Endpoint 예측 → 과식각 위험 분류 → Train·Holdout 비교 → Holdout 검증 → DOE 설계
+
+[Dry Etch 종료시점 예측 및 과식각 위험 판단 보고서 보기](https://nhbm2877-crypto.github.io/semiconductor_ai/etch/project_02/dry_etch_A_integrated_report.html)
 ---
 
 ## Photo 공정 데이터 분석
