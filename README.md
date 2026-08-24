@@ -41,8 +41,8 @@ Train 데이터를 기반으로 예측 모델과 위험 판정 기준을 구축�
 
 [Dry Etch 종료시점 예측 및 과식각 위험 판단 보고서 보기](https://nhbm2877-crypto.github.io/semiconductor_ai/etch/project_02/dry_etch_A_integrated_report.html)
 
+[Dry Etch Endpoint·과식각 조기 경보 프로세스 보기](https://nhbm2877-crypto.github.io/semiconductor_ai/etch/project_02/dry_etch_A_pilot_alert.html)
 
-[Dry Etch Pilot Alert 분석 보고서 보기](https://nhbm2877-crypto.github.io/semiconductor_ai/etch/project_02/dry_etch_A_pilot_alert.html)
 ---
 
 ## Photo 공정 데이터 분석
