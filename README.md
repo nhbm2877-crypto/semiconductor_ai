@@ -22,6 +22,7 @@ Raw Data 검증 → 데이터 전처리 → EDA → 공정능력 분석 → 머�
 ### 최종 보고서
 [Etch 공정 데이터 분석 보고서 보기](https://nhbm2877-crypto.github.io/semiconductor_ai/etch/project_01/)
 
+[Dry Etch 종료시점 예측 및 과식각 위험 판단 보고서 보기](https://nhbm2877-crypto.github.io/semiconductor_ai/etch/project_02/dry_etch_A_integrated_report.html)
 
 ---
 
